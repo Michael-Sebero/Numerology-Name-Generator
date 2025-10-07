@@ -110,7 +110,7 @@ def get_male_names():
     return [
         "Aaron", "Abel", "Abraham", "Adam", "Adrian", "Aidan", "Alan", "Albert", "Alec",
         "Alexander", "Alfred", "Andre", "Andrew", "Anthony", "Antonio", "Archer", "Arthur",
-        "Ashton", "Austin", "Avery", "Axel", "Barry", "Benjamin", "Bennett", "Blake", 
+        "Ashton", "Austin", "Avery", "Axel", "Barron", "Barry", "Benjamin", "Bennett", "Blake", 
         "Bradley", "Brandon", "Brayden", "Brian", "Bruce", "Bryan", "Caleb", "Calvin",
         "Cameron", "Carl", "Carter", "Chandler", "Charles", "Chase", "Christian", "Christopher",
         "Clayton", "Colby", "Cole", "Colin", "Connor", "Cooper", "Corey", "Cory", "Craig",
